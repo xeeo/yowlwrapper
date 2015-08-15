@@ -9,5 +9,15 @@
     "moment": "^2.10.6",
     "yowl": "^1.0.31"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reharik/core_yowlWrapper.git"
+  },
+  "author": "Raif Harik",
+  "bugs": {
+    "url": "https://github.com/reharik/core_yowlWrapper/issues"
+  },
+  "homepage": "https://github.com/reharik/core_yowlWrapper#readme",
+  "description": ""
 }
