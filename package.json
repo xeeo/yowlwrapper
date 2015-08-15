@@ -1,0 +1,13 @@
+{
+  "name": "yowlWrapper",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {},
+  "license": "MIT",
+  "node": ">=0.12.0",
+  "dependencies": {
+    "moment": "^2.10.6",
+    "yowl": "^1.0.31"
+  },
+  "devDependencies": {}
+}
