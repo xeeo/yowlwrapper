@@ -1,8 +1,7 @@
 {
   "name": "yowlwrapper",
   "version": "0.0.1",
-  "main": "index.js",
-  "scripts": {},
+  "main": "/src/index.js",
   "license": "MIT",
   "node": ">=0.12.0",
   "dependencies": {
