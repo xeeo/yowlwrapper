@@ -1,6 +1,7 @@
 {
   "name": "yowlwrapper",
   "version": "0.0.1",
+  "private": false,
   "main": "src/index.js",
   "license": "MIT",
   "node": ">=0.12.0",
@@ -11,12 +12,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reharik/core_yowlWrapper.git"
+    "url": "git+https://github.com/xeeo/yowlwrapper.git"
   },
   "author": "Raif Harik",
   "bugs": {
-    "url": "https://github.com/reharik/core_yowlWrapper/issues"
+    "url": "https://github.com/xeeo/yowlwrapper/issues"
   },
-  "homepage": "https://github.com/reharik/core_yowlWrapper#readme",
+  "homepage": "https://github.com/xeeo/yowlwrapper#readme",
   "description": ""
 }
