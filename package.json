@@ -4,12 +4,6 @@
   "private": false,
   "main": "src/index.js",
   "license": "MIT",
-  "node": ">=0.12.0",
-  "dependencies": {
-    "moment": "^2.10.6",
-    "yowl": "^1.0.31"
-  },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xeeo/yowlwrapper.git"
