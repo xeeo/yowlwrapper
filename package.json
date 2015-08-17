@@ -5,8 +5,7 @@
   "main": "src/index.js",
   "license": "MIT",
   "dependencies": {
-    "moment": "^2.10.6",
-    "yowl": "^1.0.31"
+    "moment": "^2.10.6"
   },
   "repository": {
     "type": "git",
